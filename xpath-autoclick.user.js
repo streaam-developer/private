@@ -1,4 +1,15 @@
-
+// ==UserScript==
+// @name         XPath AutoClick Master (Optimized)
+// @namespace    http://tampermonkey.net/
+// @version      1.4
+// @description  Advanced XPath clicker with optimizations
+// @author       Your Name
+// @match        *://*/*
+// @updateURL    https://raw.githubusercontent.com/streaam-developer/private/main/xpath-autoclick.user.js
+// @downloadURL  https://raw.githubusercontent.com/streaam-developer/private/main/xpath-autoclick.user.js
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
 (function() {
     'use strict';
 
